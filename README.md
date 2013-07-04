@@ -1,7 +1,7 @@
 doubanFM
 ========
 
-为练习 node-webkit 而编写的 doubanFM
+为练习 node-webkit 而编写的 doubanFM 客户端
 
 TODO:
 
