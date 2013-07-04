@@ -1,0 +1,10 @@
+{
+    "main": "index.html",
+    "name": "doubanFM",
+    "description": "DoubanFM base on node-webkit",
+    "keywords": ["douban", "doubanfm", "fm", "node-webkit"],
+    "window": {
+        "toolbar": true,
+        "frame": true
+    }
+}
