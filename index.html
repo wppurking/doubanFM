@@ -87,6 +87,11 @@
             padding-left:40px;
             background:#ffffff;
         }
+
+        #channel_div{
+            overflow-y:auto;
+            max-height:580px;
+        }
     </style>
 </head>
 <body>
@@ -99,7 +104,7 @@
     </div>
 
     <div class="row">
-        <div class="offset1 span3">
+        <div id='channel_div' class="offset1 span3">
             <ul id='channels' class="unstyled"></ul>
         </div>
         <div class="span8">
